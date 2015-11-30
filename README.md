@@ -1,2 +1,2 @@
 # hello-world
-Practice Using Git-Hub
+Using Git-Hub to see how branching works.
